@@ -2,10 +2,27 @@
 Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono Report Page.
 
 ## Step 1: Paste This Code
-```  <script type="module" id="zymono-script">
-    window.sessionStorage.setItem('gameID', 'lava')
+```html
+<script type="module" id="zymono-script">
+    //THIS CODE WAS MADE FOR THE ZYMONO API AND FOLLOWS OUR API LICENSE. 
+    //https://github.com/zymono/API
+    
+    window.sessionStorage.setItem('gameID', 'Your_ID_HERE')
     
     import { createButton, report } from 'https://zymono-api.zymono.repl.co/api.js'
 
     createButton()
-  </script>```
+</script>
+  ```
+
+## Step 2: Modify For Your Page
+
+Edit the ```Your_ID_Here``` text to be your unique report id. You can find this at: https://zymono.repl.co/dashboard/
+
+## Final Information and Attribution Policy
+
+Do NOT remove the script tag that has ```zymono-script``` as the id, otherwise the system will break!
+
+Do NOT remove the credits inside of the script tag, or else there will be legal consequences.
+
+THE CODE IMPORTED FROM https://zymono-api.zymono.repl.co/api.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://zymono-api.zymono.repl.co/license.md
