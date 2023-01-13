@@ -30,7 +30,8 @@ THE CODE IMPORTED FROM https://zymono-api.zymono.repl.co/api.js HAS A SEPARATE L
 # How To Setup A Panel On Your Website
 
 ## Step 1: Insert This Code Into Your Page
-```html <iframe src="https://Zymono-API.zymono.repl.co/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
+```html 
+<iframe src="https://Zymono-API.zymono.repl.co/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
 <script type="module" id="zymonoPanel">
   import { createPanel } from 'https://Zymono-API.zymono.repl.co/panel.js'
   createPanel('Your_Panel_Key_Here')
