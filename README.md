@@ -1,4 +1,4 @@
-# How To Use The API
+# How To Add A Report Button To Your Website
 Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono Report Page.
 
 ## Step 1: Paste This Code
@@ -26,3 +26,32 @@ Do NOT remove the script tag that has ```zymono-script``` as the id, otherwise t
 Do NOT remove the credits inside of the script tag, or else there will be legal consequences.
 
 THE CODE IMPORTED FROM https://zymono-api.zymono.repl.co/api.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://zymono-api.zymono.repl.co/license.md
+
+# How To Setup A Panel On Your Website
+
+## Step 1: Insert This Code Into Your Page
+'''html <iframe src="https://Zymono-API.zymono.repl.co/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
+<script type="module" id="zymonoPanel">
+  import { createPanel } from 'https://Zymono-API.zymono.repl.co/panel.js'
+  createPanel('Your_Panel_Key_Here')
+</script>'''
+    
+## Step 2: Modify
+    
+Edit '''Your_Panel_Key_Here''' to your panel key which you can find at: https://zymono.repl.co/dashboard/
+    
+## Warning
+    
+Anybody with access to this page can view the source code where you list your panel key.
+    
+## Final Information and Attribution Policy
+
+Do NOT remove the script tag that has ```zymonoPanel``` as the id, otherwise the system will break!
+
+Do NOT remove the credits inside of the script tag, or else there will be legal consequences.
+
+THE CODE IMPORTED FROM https://zymono-api.zymono.repl.co/panel.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://zymono-api.zymono.repl.co/license.md
+
+THE WEBSITE REFERENCED IN THE IFRAME IS OWNED AND COPYRIGHTED UNDER ALL RIGHTS RESERVED BY ZYMONO AND WE CAN RESTRICT ACCESS TO IT FOR ANY REASON WE SEE FIT!
+    
+YOU ARE NOT ALLOWED TO MODIFY ANY CODE ACCEPPT: '''Your_Panel_Key_Here'''
