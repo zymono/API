@@ -25,7 +25,7 @@ Do NOT remove the script tag that has ```zymono-script``` as the id, otherwise t
 
 Do NOT remove the credits inside of the script tag, or else there will be legal consequences.
 
-THE CODE IMPORTED FROM https://https://api.zymono.com/api.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://https://api.zymono.com/license.md
+THE CODE IMPORTED FROM https://api.zymono.com/api.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://api.zymono.com/license.md
 
 # How To Setup A Panel On Your Website
 
@@ -52,7 +52,7 @@ Do NOT remove the script tag that has ```zymonoPanel``` as the id, otherwise the
 
 Do NOT remove the credits inside of the script tag, or else there will be legal consequences.
 
-THE CODE IMPORTED FROM https://https://api.zymono.com/panel.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://https://api.zymono.com/license.md
+THE CODE IMPORTED FROM https://api.zymono.com/panel.js HAS A SEPARATE LICENSE AGREEMENT TO THE API AGREEMENT WHICH YOU CAN READ AT: https://api.zymono.com/license.md
 
 THE WEBSITE REFERENCED IN THE IFRAME IS OWNED AND COPYRIGHTED UNDER ALL RIGHTS RESERVED BY ZYMONO AND WE CAN RESTRICT ACCESS TO IT FOR ANY REASON WE SEE FIT!
     
