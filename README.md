@@ -9,7 +9,7 @@ Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono 
     
     window.sessionStorage.setItem('gameID', 'Your_ID_HERE')
     
-    import { createButton, report } from 'https://zymono-api.zymono.repl.co/api.js'
+    import { createButton, report } from 'https://api.zymono.com/api.js'
 
     createButton()
 </script>
@@ -17,7 +17,7 @@ Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono 
 
 ## Step 2: Modify For Your Page
 
-Edit the ```Your_ID_Here``` text to be your unique report id. You can find this at: https://zymono.repl.co/dashboard/
+Edit the ```Your_ID_Here``` text to be your unique report id. You can find this at: https://zymono.com/dashboard/
 
 ## Final Information and Attribution Policy
 
@@ -33,14 +33,14 @@ THE CODE IMPORTED FROM https://zymono-api.zymono.repl.co/api.js HAS A SEPARATE L
 ```html 
 <iframe src="https://Zymono-API.zymono.repl.co/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
 <script type="module" id="zymonoPanel">
-  import { createPanel } from 'https://Zymono-API.zymono.repl.co/panel.js'
+  import { createPanel } from 'https://api.zymono.com/panel.js'
   createPanel('Your_Panel_Key_Here')
 </script>
 ```
     
 ## Step 2: Modify
     
-Edit ```Your_Panel_Key_Here``` to your panel key which you can find at: https://zymono.repl.co/dashboard/
+Edit ```Your_Panel_Key_Here``` to your panel key which you can find at: https://zymono.com/dashboard/
     
 ## Warning
     
