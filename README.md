@@ -34,7 +34,8 @@ THE CODE IMPORTED FROM https://zymono-api.zymono.repl.co/api.js HAS A SEPARATE L
 <script type="module" id="zymonoPanel">
   import { createPanel } from 'https://Zymono-API.zymono.repl.co/panel.js'
   createPanel('Your_Panel_Key_Here')
-</script>```
+</script>
+```
     
 ## Step 2: Modify
     
