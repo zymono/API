@@ -31,7 +31,7 @@ THE CODE IMPORTED FROM https://api.zymono.com/api.js HAS A SEPARATE LICENSE AGRE
 
 ## Step 1: Insert This Code Into Your Page
 ```html 
-<iframe src="https://Zymono-API.zymono.repl.co/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
+<iframe src="https://api.zymono.com/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
 <script type="module" id="zymonoPanel">
   import { createPanel } from 'https://api.zymono.com/panel.js'
   createPanel('Your_Panel_Key_Here')
