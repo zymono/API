@@ -51,6 +51,8 @@ THE CODE IMPORTED FROM https://api.zymono.com/api.js HAS A SEPARATE LICENSE AGRE
 ## Step 2: Modify
     
 Edit ```Your_Panel_Key_Here``` to your panel key which you can find at: https://zymono.com/dashboard/
+
+If your IDE supports storing variable secrets then we recommend that you store ```Your_Panel_Key_Here``` in one, otherwise anyone can steal it and create their own api page with your panel.
     
 ## Warning
     
