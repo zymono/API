@@ -37,6 +37,16 @@ THE CODE IMPORTED FROM https://api.zymono.com/api.js HAS A SEPARATE LICENSE AGRE
   createPanel('Your_Panel_Key_Here')
 </script>
 ```
+
+## or:
+
+```html 
+<script src="https://api.zymono.com/panel.js"></script>
+<iframe src="https://api.zymono.com/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
+<script>
+    createPanel('Your_Panel_Key_Here')
+</script>
+```
     
 ## Step 2: Modify
     
