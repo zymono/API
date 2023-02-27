@@ -29,6 +29,8 @@ THE CODE IMPORTED FROM https://api.zymono.com/api.js HAS A SEPARATE LICENSE AGRE
 
 # How To Setup A Panel On Your Website
 
+Note you can also view our ScribeHow tutorial: https://scribehow.com/shared/Deploying_an_API_Key_to_a_Webpage__d72OyYqeT6yRecMk--Jtvg
+
 ## Step 1: Insert This Code Into Your Page
 ```html 
 <iframe src="https://api.zymono.com/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
