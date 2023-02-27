@@ -43,7 +43,7 @@ Note you can also view our ScribeHow tutorial: https://scribehow.com/shared/Depl
 ## or:
 
 ```html 
-<script src="https://api.zymono.com/panel.js"></script>
+<script src="https://api.zymono.com/panel-nonmodular.js"></script>
 <iframe src="https://api.zymono.com/panel/" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;">
 <script>
     createPanel('Your_Panel_Key_Here')
