@@ -5,6 +5,8 @@ Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono 
 ```html
 <script type="module" id="zymono-script">
     //THIS CODE WAS MADE FOR THE ZYMONO API AND FOLLOWS OUR API LICENSE. 
+    //https://github.com/zymono/API/LICENSE
+    
     //https://github.com/zymono/API
     
     window.sessionStorage.setItem('gameID', 'Your_ID_HERE')
@@ -52,7 +54,7 @@ Note you can also view our ScribeHow tutorial: https://scribehow.com/shared/Depl
     
 ## Step 2: Modify
     
-Edit ```Your_Panel_Key_Here``` to your panel key which you can find at: https://zymono.com/dashboard/
+Edit ```Your_Panel_Key_Here``` to your panel key which you can find at: https://zymono.com/me/
 
 If your IDE supports storing variable secrets then we recommend that you store ```Your_Panel_Key_Here``` in one, otherwise anyone can steal it and create their own api page with your panel.
     
