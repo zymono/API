@@ -5,7 +5,7 @@ Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono 
 ```html
 <script type="module" id="zymono-script">
     //THIS CODE WAS MADE FOR THE ZYMONO API AND FOLLOWS OUR API LICENSE. 
-    //https://github.com/zymono/API/LICENSE
+    //https://github.com/zymono/API/LICENSE.md
     
     //https://github.com/zymono/API
     
