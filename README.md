@@ -1,3 +1,5 @@
+# THIS MOVED TO HTTPS://DOCS.ZYMONO.COM
+
 # How To Add A Report Button To Your Website
 Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono Report Page.
 
