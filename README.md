@@ -1,7 +1,7 @@
 # THIS MOVED TO HTTPS://DOCS.ZYMONO.COM
 ### The following repository has been archived along with its code snippets. For updated API information please visit our [docs](https://docs.zymono.com).
 
-# THIS DATA MAY NO LONGER WORK WITH OUR API
+# -------------------------------------------
 
 ## How To Add A Report Button To Your Website
 Use The Zymono API To Embed A Button Into Any Webpage That Launches Your Zymono Report Page.
